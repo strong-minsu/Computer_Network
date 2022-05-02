@@ -1,8 +1,6 @@
 package java_socket;
 import java.io.*;
 import java.net.*;
-import java.util.*;
-
 
 public class AlphaServer {
 	//알바벳 변경 함수
@@ -61,6 +59,5 @@ public class AlphaServer {
 				System.out.println("client와 채팅중 오류가 발생했습니다.");
 			}
 		}
-	}
-	
+	}	
 }

@@ -1,4 +1,5 @@
 package java_socket_login;
+//자바 소켓연동
 
 import java.sql.*;
 
